@@ -1,0 +1,25 @@
+.programs {
+  text-align: center;
+  padding: 20px;
+}
+
+.program-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.program {
+  width: 45%;
+  margin: 20px 0;
+  background: #f4f4f4;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.program img {
+  width: 100%;
+  border-radius: 5px;
+  margin-top: 10px;
+}
